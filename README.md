@@ -8,5 +8,5 @@ In visualizing data, we notice that Federico Valverde is the more efficient play
 
 In addition, I Analyze the team performance by inspecting from which situation the goal is been scored (ex : Open Play, From Corner, Set piece, Direct Freekick or Penalty)
 
-P.S : The interpretation of the efficiency is more complexed than it look, because the player who has a negative efficient doesn't mean that the player performance is not good.
+P.S : The interpretation of the efficiency is more complexed than it look, because the player who has a negative efficient, doesn't mean that the player performance is not good.
 
