@@ -1,12 +1,13 @@
-# Analyzing-Real-Madrid-Stats-Using-Python
+# Real Madrid Performance Analysis
 
-In this project, I analyzed Real Madrid performances (From start of the season until February Month 2023), using selenium for scraping data from understat.com 
-and Pandas, matplotlib for manipulate and visualize data.
 
-To be more specific, the perfomances of each player are based on Goals, Expected Goals And Expected Assists, also I introduce a new concept that tell us how the player is efficient. Indeed, the efficiency of each player is the difference of Goals and Expected Goals. So more the efficiency is higher, more the player is efficient.
-In visualizing data, we notice that Federico Valverde is the more efficient player in Real Madrid Squad and that is explained by the shot power of this player. He can score a goal even his position is not dangerous.
+In this project, I analyzed Real Madrid's performances from the start of the season until February 2023. For data scraping, I used Selenium to extract data from understat.com, and for data manipulation and visualization, I used Pandas and Matplotlib.
 
-In addition, I Analyze the team performance by inspecting from which situation the goal is been scored (ex : Open Play, From Corner, Set piece, Direct Freekick or Penalty)
+To analyze the performances of each player, I considered their goals, expected goals, and expected assists. I also introduced a new concept to determine the efficiency of a player. The efficiency of each player is calculated as the difference between their goals and expected goals. A higher efficiency score indicates a more efficient player.
 
-P.S : The interpretation of the efficiency is more complexed than it look, because the player who has a negative efficient, doesn't mean that the player performance is not good.
+Upon visualizing the data, it became evident that Federico Valverde is the most efficient player in the Real Madrid squad. His shot power enables him to score goals even from less dangerous positions.
+
+Additionally, I analyzed the team's performance by determining the situations from which goals were scored, such as open play, from a corner, set piece, direct free kick, or penalty.
+
+Please note that the interpretation of efficiency is more complex than it seems. A player with a negative efficiency score does not necessarily mean that his performance is poor. It could be that the player puts himself in more dangerous positions than other attacking players. To interpret this concept accurately, we must compare his expected goals score with the average.
 
