@@ -9,5 +9,5 @@ Upon visualizing the data, it became evident that Federico Valverde is the most 
 
 Additionally, I analyzed the team's performance by determining the situations from which goals were scored, such as open play, from a corner, set piece, direct free kick, or penalty.
 
-Please note that the interpretation of efficiency is more complex than it seems. A player with a negative efficiency score does not necessarily mean that his performance is poor. It could be that the player puts himself in more dangerous positions than other attacking players. To interpret this concept accurately, we must compare his expected goals score with the average.
+Please note that the interpretation of efficiency is more complex than it seems. A player with an efficiency score less than 1 does not necessarily mean that his performance is poor. It could be that the player puts himself in more dangerous positions than other attacking players. To interpret this concept accurately, we must compare his expected goals score with the average.
 
